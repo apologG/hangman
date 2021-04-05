@@ -1,39 +1,39 @@
 Hangman the game 
 
-Rules of the game
+Rules of the game<br/>
 It is proposed to guess the hidden word by letter. Full description of the game on [Wikipedia](https://en.wikipedia.org/wiki/Hangman_(game)).
 
+The game is written in Ruby 2.6.6 <br/>
 How to start
-The game is written in Ruby 2.6.6
 
-Download and unpack the game archive.
-Open the "hangman" folder in the console.
-Start the game with the command in the console:
-ruby main.rb
-How to add or remove words for the game:
-Edit the word list for guessing in the file executioner \data\ words.txt
+Download and unpack the game archive.<br/>
+Open the "hangman" folder in the console.<br/>
+Start the game with the command in the console:<br/>
+ruby main.rb<br/>
+How to add or remove words for the game:<br/>
+Edit the word list for guessing in the file executioner \data\ words.txt<br/>
 
-About the author
-Created on the 'Good Programmer' course in 2021.
+About the author<br/>
+Created on the 'Good Programmer' course in 2021.<br/>
 https://github.com/apologG
 
 <hr/>
 
 Консольная игра "Виселица"
 
-Правила игры
+Правила игры<br/>
 Предлагается отгадать загаданнное слово по буквам. Полное описание игры на [Википедии](https://ru.wikipedia.org/wiki/Виселица_(игра)).
 
+Игра написана на Ruby 2.6.6<br/>
 Как запустить
-Игра написана на Ruby 2.6.6
 
-Скачать и распаковать архив игры.
-Открыть папку hangman в консоли.
-Запустить игру командой в консоли:
-ruby main.rb
-Как добавить или удалить слова для игры:
-Отредактируйте список слов для угадывания в файле hangman\data\words.txt
+Скачать и распаковать архив игры.<br/>
+Открыть папку hangman в консоли.<br/>
+Запустить игру командой в консоли:<br/>
+ruby main.rb<br/>
+Как добавить или удалить слова для игры:<br/>
+Отредактируйте список слов для угадывания в файле hangman\data\words.txt<br/>
 
-Об авторе
-Создано на курсе 'Хороший программист' в 2021 году.
-https://github.com/apologG
+Об авторе<br/>
+Создано на курсе 'Хороший программист' в 2021 году.<br/>
+https://github.com/apologG<br/>
