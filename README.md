@@ -1,6 +1,6 @@
 Hangman the game 
 
-Rules of the game<br/>
+Rules of the game:<br/>
 It is proposed to guess the hidden word by letter. Full description of the game on [Wikipedia](https://en.wikipedia.org/wiki/Hangman_(game)).
 
 The game is written in Ruby 2.6.6, supports Russian and English
@@ -21,7 +21,7 @@ https://github.com/apologG
 
 Консольная игра "Виселица"
 
-Правила игры<br/>
+Правила игры:<br/>
 Предлагается отгадать загаданнное слово по буквам. Полное описание игры на [Википедии](https://ru.wikipedia.org/wiki/Виселица_(игра)).
 
 Игра написана на Ruby 2.6.6, поддерживает русский и английский языки<br/>
@@ -32,7 +32,7 @@ https://github.com/apologG
 Запустить игру командой в консоли:<br/>
 ruby main.rb<br/>
 Как добавить или удалить слова для игры:<br/>
-Отредактируйте список слов для угадывания в файле hangman\data\words_ru.txt для русского языка / hangman\data\words_ru.txt для английского языка <br/>
+Отредактируйте список слов для угадывания в файле hangman\data\words_ru.txt для русского языка / hangman\data\words_en.txt для английского языка <br/>
 
 Об авторе<br/>
 Создано на курсе 'Хороший программист' в 2021 году.<br/>
